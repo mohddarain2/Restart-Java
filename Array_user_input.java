@@ -26,7 +26,7 @@ public class Array_user_input {
             course_Name[i] = sc.nextLine();// java php ruby js
         }
 
-        System.out.println("Arrays element are Here: ");
+        System.out.println("Arrays element are Here : ");
         for (int i = 0; i < TotalInput; i++) {
             System.out.println(course_Name[i]);
         }
