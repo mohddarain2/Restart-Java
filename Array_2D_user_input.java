@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Array_2D_user_input {
-    public static void main(String[] args) {
+    public static void main(StringExamples[] args) {
         //System.out.println("Please enter Array of element");
 
         // Scanner sc = new Scanner(System.in);

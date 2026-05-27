@@ -58,7 +58,7 @@ import java.util.Scanner;
 
 public class Array_user_input {
 
-    public static void main (String [] args){
+    public static void main (StringExamples [] args){
         System.out.println("Please enter element of array count");
         Scanner sc  = new Scanner(System.in);
         int total_Element1 = sc.nextInt();
